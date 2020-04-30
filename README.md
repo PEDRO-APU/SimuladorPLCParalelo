@@ -1,0 +1,2 @@
+# SimuladorPLCParalelo
+Simulador PLC
