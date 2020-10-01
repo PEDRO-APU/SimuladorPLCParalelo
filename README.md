@@ -1,2 +1,2 @@
 # SimuladorPLCParalelo
-Simulador PLC
+Simulador of PLC for simulating the PLC programs.
